@@ -41,3 +41,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Collect payments then pay out [Documentation](https://stripe.com/docs/connect/collect-then-transfer-guide)
 azmir.hossen.849@gmail.com  
+
+## Algolio azmir.hossen.849@gmail.com  
